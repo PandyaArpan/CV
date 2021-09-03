@@ -1,0 +1,43 @@
+body {
+  background-color: #f9f7f7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #3f72af;
+  border-width: 5px;
+  width: 2.5%;
+}
+
+h1 {
+  color: #3f72af;
+
+  text-decoration-line: underline;
+  text-decoration-color: #dbe2ef;
+  text-decoration-thickness: 15%;
+  font-variant: small-caps;
+  font-stretch: ultra-expanded;
+  letter-spacing: 0.2rem;
+}
+
+h3 {
+  color: #3f72af;
+  text-decoration-line: underline;
+  text-decoration-color: #dbe2ef;
+  text-decoration-thickness: 10%;
+  font-variant: small-caps;
+  font-stretch: ultra-expanded;
+  letter-spacing: 0.1rem;
+}
+
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+ol {
+  list-style-type: disc;
+}
